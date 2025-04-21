@@ -43,7 +43,7 @@
 Hi! I'm **Shoeb Shaikh**, a passionate **MERN Stack Developer** from **Aurangabad, India**.
 
 - 🧠 Always exploring new technologies  
-- 🛠️ Currently working on a **Restaurant CRM using MERN stack**  
+- 🛠️ Currently working on a **Restaurant Platform using MERN stack**  
 - 🤝 Open to collaborating on **real-world**, **scalable web apps**  
 - 🎯 Fun Fact: I love turning coffee ☕ into quality code 💻
 
@@ -51,7 +51,7 @@ Hi! I'm **Shoeb Shaikh**, a passionate **MERN Stack Developer** from **Aurangaba
 
 ## 🚀 Featured Project
 
-### 🧾 Restaurant Management Platform (CRM)  
+### 🧾 Restaurant Management Platform 
 A full-stack web application to manage restaurant operations, from inventory to customer relationships.  
 🔗 *[Link coming soon]*
 
